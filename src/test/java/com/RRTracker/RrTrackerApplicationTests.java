@@ -1,0 +1,13 @@
+package com.RRTracker;
+
+import org.junit.jupiter.api.Test;
+import org.springframework.boot.test.context.SpringBootTest;
+
+@SpringBootTest
+class RrTrackerApplicationTests {
+
+	@Test
+	void contextLoads() {
+	}
+
+}
